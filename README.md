@@ -1,15 +1,47 @@
+![image1](image1)
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/joachim-m-vis-869a99124/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:joachim.vis@vis-consult.de) 
+# ♾️ Solving Supply Chain & Operations with AI
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jm-vis&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=jm-vis&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jm-vis&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## About Me
+
+Hi, I’m Joachim Vis — an executive with 20+ years of international experience in supply chain, procurement, and operations.  
+After driving transformation and measurable results for leading organizations, I’m now diving into the world of AI engineering and development.
+
+My mission: combine practical business expertise with cutting-edge AI to solve real-world challenges in supply chain and operations, turning cost centers into profit centers.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=jm-vis&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## AI Tech Stack & Skills
+
+As a certified AI Manager (IHK) and passionate learner, I’m actively exploring and building with:
+
+- **Agent Frameworks:** LangChain, LangGraph, CrewAI, Smolagents, LlamaIndex, Agno Agent (Python)
+- **Retrieval-Augmented Generation (RAG):** Supabase, Qdrant, Docker Ollama, Typescript
+- **No-Code Automation:** Make.com, n8n (migration in progress)
+- **Process & Data Analysis:** Six Sigma Black Belt, Design for Six Sigma, LEAN Master
+
+I'm a tech newcomer, eager to learn and share my journey—from initial prototypes to integrating multi-tool AI agents.
+
+---
+
+## Learning Journey
+
+- Started hands-on AI development in January 2024
+- Completed agent courses: Dr. Maryam Miradi, Hugging Face, Vibe Coding, Roo Code (VS Code Extension)
+- Building and experimenting with RAG, agent orchestration, and AI-powered automation
+- Adjusting private projects for future open-source contributions
+
+If you’re also exploring AI, supply chain innovation, or want to collaborate, reach out!
+
+---
+
+## Contact
+
+- [LinkedIn](https://www.linkedin.com/in/joachim-m-vis-869a99124/)
+- [Website](https://www.vis-consult.de)
+- Email: joachim.vis@vis-consult.de
+
+---
+
+**AI finds waste. LEAN fix it.**  
+_You have 40% cost-cutting potential._
