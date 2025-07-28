@@ -1,4 +1,4 @@
-![image1](image1)
+![YT-bg01](https://github.com/user-attachments/assets/5209ee45-978e-4b41-94bf-af979a9dcd23)
 
 # ♾️ Solving Supply Chain & Operations with AI
 
