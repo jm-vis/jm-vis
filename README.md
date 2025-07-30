@@ -3,7 +3,7 @@
 
 ## About Me
 
-Hi, I’m Joachim M. Vis — an executive with 20+ years of international experience in supply chain, procurement, and operations.  
+Hi, I’m Joachim M. Vis — an executive with 20+ years of international experience in supply chain, procurement, and operations.
 After driving transformation and measurable results for leading organizations, I’m now diving into the world of AI engineering and development.
 
 My mission: combine practical business expertise with cutting-edge AI to solve real-world challenges in supply chain and operations, turning cost centers into profit centers.
@@ -15,7 +15,7 @@ My mission: combine practical business expertise with cutting-edge AI to solve r
 As a certified AI Manager (IHK) and passionate learner, I’m actively exploring and building with:
 
 - **Agent Frameworks:** LangChain, LangGraph, CrewAI, Smolagents, LlamaIndex, Agno Agent (Python)
-- **Retrieval-Augmented Generation (RAG):** Supabase, Qdrant, Docker Ollama, Typescript
+- **Retrieval-Augmented Generation (RAG):** Supabase, Qdrant, Docker Ollama, TypeScript
 - **No-Code Automation:** Make.com, n8n (migration in progress)
 - **Process & Data Analysis:** Six Sigma Black Belt, Design for Six Sigma, LEAN Master
 
@@ -42,5 +42,5 @@ If you’re also exploring AI, supply chain innovation, or want to collaborate, 
 
 ---
 
-**AI finds waste. LEAN fix it.**  
+**AI finds waste. LEAN fixes it.**  
 _You have 40% cost-cutting potential._
