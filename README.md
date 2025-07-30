@@ -25,7 +25,7 @@ I'm a tech newcomer, eager to learn and share my journey—from initial prototyp
 
 ## Learning Journey
 
-- Started hands-on AI development in January 2024
+- Started hands-on AI development in January 2025
 - Completed agent courses: Dr. Maryam Miradi, Hugging Face, Vibe Coding, Roo Code (VS Code Extension)
 - Building and experimenting with RAG, agent orchestration, and AI-powered automation
 - Adjusting private projects for future open-source contributions
