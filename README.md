@@ -3,10 +3,10 @@
 
 ## About Me
 
-Hi, I’m Joachim M. Vis — an executive with 20+ years of international experience in supply chain, procurement, and operations.
-After driving transformation and measurable results for leading organizations, I’m now diving into the world of AI engineering and development.
+I am an experienced Supply Chain & Operations leader with over 20 years of international management expertise in manufacturing, retail, and logistics.  
+Today, I leverage **Artificial Intelligence** to transform supply chain performance, reduce costs, and enable data-driven decision-making for SMEs and enterprises.  
 
-My mission: combine practical business expertise with cutting-edge AI to solve real-world challenges in supply chain and operations, turning cost centers into profit centers.
+My focus is on **AI strategy**, **AI agent development**, and **process automation**, combining technical know-how with strong business acumen.
 
 ---
 
@@ -23,12 +23,20 @@ I'm a tech newcomer, eager to learn and share my journey—from initial prototyp
 
 ---
 
-## Learning Journey
+## Completed Training & Certificates
 
-- Started hands-on AI development in January 2025
-- Completed agent courses: Dr. Maryam Miradi, Hugging Face, Vibe Coding, Roo Code (VS Code Extension)
-- Building and experimenting with RAG, agent orchestration, and AI-powered automation
-- Adjusting private projects for future open-source contributions
+| Date       | Course                                                                                                               | Provider                         | Link |
+|------------|----------------------------------------------------------------------------------------------------------------------|-----------------------------------|------|
+| 08/2025    | Configuration Management and the Cloud                                                                              | Coursera (Google)                 | [🔗](https://www.coursera.org/learn/configuration-management-cloud) |
+| 08/2025    | Troubleshooting and Debugging Techniques                                                                             | Coursera (Google)                 | [🔗](https://www.coursera.org/learn/troubleshooting-debugging-techniques) |
+| 07/2025    | Introduction to Git and GitHub                                                                                       | Coursera (Google)                 | [🔗](https://www.coursera.org/learn/introduction-git-github) |
+| 07/2025    | Using Python to Interact with the Operating System                                                                   | Coursera (Google)                 | [🔗](https://www.coursera.org/learn/using-python-operating-system) |
+| 06/2025    | Crash Course on Python                                                                                               | Coursera (Google)                 | [🔗](https://www.coursera.org/learn/python-crash-course) |
+| 02–06/2025 | Hugging Face Agents Course *(incl. Bonus Units 1 & 2)*                                                               | Hugging Face                      | [🔗](https://huggingface.co/learn/agents-course/unit0/introduction) |
+| 02–03/2025 | Hugging Face LLM Course *(completed up to Unit 11: Fine-Tuning Large Language Models)*                               | Hugging Face                      | [🔗](https://huggingface.co/learn/llm-course/chapter1) |
+| 01–02/2025 | AI Agents Mastery *(without PydanticAI module)*                                                                      | Dr. Maryam Miradi                  | [🔗](https://www.maryammiradi.com/ai-agents-mastery3) |
+| 07–08/2024 | Make Intermediate                                                                                                    | Make.com (formerly Integromat)    | [🔗](https://www.make.com/en/academy) |
+| 04/2024    | AI-Manager & Application Consultant AI                                                                               | IHK / LVQ GmbH                     |  |
 
 If you’re also exploring AI, supply chain innovation, or want to collaborate, reach out!
 
