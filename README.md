@@ -30,13 +30,13 @@ I'm a tech newcomer, eager to learn and share my journey—from initial prototyp
 | 08/2025    | Configuration Management and the Cloud                                                                              | Coursera (Google)                 | [🔗](https://www.coursera.org/learn/configuration-management-cloud) |
 | 08/2025    | Troubleshooting and Debugging Techniques                                                                             | Coursera (Google)                 | [🔗](https://www.coursera.org/learn/troubleshooting-debugging-techniques) |
 | 07/2025    | Introduction to Git and GitHub                                                                                       | Coursera (Google)                 | [🔗](https://www.coursera.org/learn/introduction-git-github) |
-| 07/2025    | Using Python to Interact with the Operating System                                                                   | Coursera (Google)                 | [🔗](https://www.coursera.org/learn/using-python-operating-system) |
+| 07/2025    | Using Python to Interact with the Operating System                                                                   | Coursera (Google)                 | [🔗](https://www.coursera.org/learn/python-operating-system) |
 | 06/2025    | Crash Course on Python                                                                                               | Coursera (Google)                 | [🔗](https://www.coursera.org/learn/python-crash-course) |
 | 02–06/2025 | Hugging Face Agents Course *(incl. Bonus Units 1 & 2)*                                                               | Hugging Face                      | [🔗](https://huggingface.co/learn/agents-course/unit0/introduction) |
 | 02–03/2025 | Hugging Face LLM Course *(completed up to Unit 11: Fine-Tuning Large Language Models)*                               | Hugging Face                      | [🔗](https://huggingface.co/learn/llm-course/chapter1) |
 | 01–02/2025 | AI Agents Mastery *(without PydanticAI module)*                                                                      | Dr. Maryam Miradi                  | [🔗](https://www.maryammiradi.com/ai-agents-mastery3) |
-| 07–08/2024 | Make Intermediate                                                                                                    | Make.com (formerly Integromat)    | [🔗](https://www.make.com/en/academy) |
-| 04/2024    | AI-Manager & Application Consultant AI                                                                               | IHK / LVQ GmbH                     |  |
+| 07–08/2024 | Make Intermediate                                                                                                    | Make.com (formerly Integromat)    | [🔗](https://academy.make.com/pages/search) |
+| 04/2024    | AI-Manager & Application Consultant AI                                                                               | IHK / LVQ GmbH                     | [🔗](https://www.lvq.de/weiterbildung.html) |
 
 If you’re also exploring AI, supply chain innovation, or want to collaborate, reach out!
 
