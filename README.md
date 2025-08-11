@@ -3,16 +3,16 @@
 
 ## About Me
 
-I am an experienced Supply Chain & Operations leader with over 20 years of international management expertise in manufacturing, retail, and logistics.  
-Today, I leverage **Artificial Intelligence** to transform supply chain performance, reduce costs, and enable data-driven decision-making for SMEs and enterprises.  
+I am an experienced **Supply Chain & Operations** leader with over 20 years of international management expertise in **Manufacturing**, **Retail**, and **Logistics**.
+Today, I leverage **Artificial Intelligence (AI)** to transform **Supply Chain Performance**, reduce costs, and enable **Data-Driven Decision-Making** for SMEs.
 
-My focus is on **AI strategy**, **AI agent development**, and **process automation**, combining technical know-how with strong business acumen.
+My focus is on **AI Strategy**, **AI Agent Development**, and **Process Automation**, combining technical know-how with strong business acumen.
 
 ---
 
 ## AI Tech Stack & Skills
 
-As a certified AI Manager (IHK) and passionate learner, I’m actively exploring and building with:
+As a certified **AI Manager (IHK)** and passionate learner, I’m actively exploring and building with:
 
 - **Agent Frameworks:** LangChain, LangGraph, CrewAI, Smolagents, LlamaIndex, Agno Agent (Python)
 - **Retrieval-Augmented Generation (RAG):** Supabase, Qdrant, Docker Ollama, TypeScript
