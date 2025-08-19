@@ -27,6 +27,8 @@ I'm a tech newcomer, eager to learn and share my journey—from initial prototyp
 
 | Date       | Course                                                                                                               | Provider                         | Link |
 |------------|----------------------------------------------------------------------------------------------------------------------|-----------------------------------|------|
+| 08/2025    | Google IT Automation with Python                                                                                     | Coursera (Google)                 | [🔗](https://www.coursera.org/professional-certificates/google-it-automation) |
+| 08/2025    | Automating Real-World Tasks with Python                                                                              | Coursera (Google)                 | [🔗](https://www.coursera.org/learn/automating-real-world-tasks-python) |
 | 08/2025    | Configuration Management and the Cloud                                                                              | Coursera (Google)                 | [🔗](https://www.coursera.org/learn/configuration-management-cloud) |
 | 08/2025    | Troubleshooting and Debugging Techniques                                                                             | Coursera (Google)                 | [🔗](https://www.coursera.org/learn/troubleshooting-debugging-techniques) |
 | 07/2025    | Introduction to Git and GitHub                                                                                       | Coursera (Google)                 | [🔗](https://www.coursera.org/learn/introduction-git-github) |
