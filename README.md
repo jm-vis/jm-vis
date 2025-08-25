@@ -22,6 +22,15 @@ As a certified **AI Manager (IHK)** and passionate learner, I’m actively explo
 I'm a tech newcomer, eager to learn and share my journey—from initial prototypes to integrating multi-tool AI agents.
 
 ---
+## Projects
+
+Hands-on repos that show how I apply AI in procurement, supply chain, and operations. Lean scope, clear results.
+
+### RFQ automation
+- [jmvis-rfq-batch-mailer](https://github.com/jm-vis/jmvis-rfq-batch-mailer)  
+  Send personalized RFQ emails at scale with PDF cover letter and Excel specs. SMTP over TLS, CSV contacts, retry and logging.
+
+---
 
 ## Completed Training & Certificates
 
