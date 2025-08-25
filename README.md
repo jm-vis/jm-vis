@@ -30,6 +30,10 @@ Hands-on repos that show how I apply AI in procurement, supply chain, and operat
 - [jmvis-rfq-batch-mailer](https://github.com/jm-vis/jmvis-rfq-batch-mailer)  
   Send personalized RFQ emails at scale with PDF cover letter and Excel specs. SMTP over TLS, CSV contacts, retry and logging.
 
+### Machine learning
+- jmvis-real-estate-meerbusch (coming soon)  
+  House price modeling on local data, with explainability.
+
 ---
 
 ## Completed Training & Certificates
