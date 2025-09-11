@@ -40,6 +40,8 @@ Hands-on repos that show how I apply AI in procurement, supply chain, and operat
 
 | Date       | Course                                                                                                               | Provider                         | Link |
 |------------|----------------------------------------------------------------------------------------------------------------------|-----------------------------------|------|
+| 08-09/2025    | Machine Learning                                                                                                  | DeepLearning.AI         (Stanford online) | [🔗](https://www.coursera.org/account/accomplishments/specialization/2XDOZO2FSGV1) |
+| 09/2025    | Unsupervised Learning, Recommenders, Reinforcement Learning                                                          | DeepLearning.AI         (Stanford online) | [🔗](https://www.coursera.org/account/accomplishments/verify/IJ1N5U3T1IZB) |
 | 08-09/2025    | Advanced Learning Algorithms                                                                                      | DeepLearning.AI         (Stanford online) | [🔗](https://www.coursera.org/account/accomplishments/verify/K4CSSROVSHFG) |
 | 08/2025    | Supervised Machine Learning: Regression and Classification                                                           | DeepLearning.AI         (Stanford online) | [🔗](https://www.coursera.org/account/accomplishments/verify/LM8BN9IUY9CJ) |
 | 06-08/2025    | Google IT Automation with Python                                                                                     | Coursera (Google)                 | [🔗](https://www.coursera.org/professional-certificates/google-it-automation) |
