@@ -40,6 +40,8 @@ Hands-on repos that show how I apply AI in procurement, supply chain, and operat
 
 | Date       | Course                                                                                                               | Provider                         | Link |
 |------------|----------------------------------------------------------------------------------------------------------------------|-----------------------------------|------|
+| 11/2025    | PyTorch: Techniques and Ecosystem Tools                                                                               | DeepLearning.AI          | [🔗](https://www.coursera.org/account/accomplishments/verify/5AEPUDTM9FBC) |
+| 10-11/2025    | PyToch: Fundamentals                                                                                               | DeepLearning.AI          | [🔗](https://www.coursera.org/account/accomplishments/verify/MK759LXATDXS) |
 | 09-10/2025    | Deep Learning Specialization                                                                                       | DeepLearning.AI          | [🔗](https://www.coursera.org/account/accomplishments/specialization/4UUY3Y35IT6B) |
 | 10/2025    | Sequence Models                                                                                                       | DeepLearning.AI          | [🔗](https://www.coursera.org/account/accomplishments/verify/C2R9LCK3R0WE) |
 | 10/2025    | Convolutional Neural Networks (CNNs)                                                                                  | DeepLearning.AI          | [🔗](https://www.coursera.org/account/accomplishments/verify/Z2B97HKAWX4A) |
