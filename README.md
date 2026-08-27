@@ -31,7 +31,7 @@ Hands-on repos that show how I apply AI in procurement, supply chain, and operat
   Send personalized RFQ emails at scale with PDF cover letter and Excel specs. SMTP over TLS, CSV contacts, retry and logging.
 
 ### Agent observability
-- [jmvis-sitzungsbeleg](https://github.com/jm-vis/jmvis-sitzungsbeleg)  
+- [jmvis-agent-session-ledger](https://github.com/jm-vis/jmvis-agent-session-ledger)  
   Session ledger for Claude Code and Codex: cost, latency, tool errors and rework per session. Stores numbers and rule IDs only, never transcripts. Append-only Postgres, two-model review with a human on disagreement. Python, MIT.
 
 ### Machine learning
