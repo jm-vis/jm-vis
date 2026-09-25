@@ -12,31 +12,32 @@ My focus is on **AI Strategy**, **AI Agent Development**, and **Process Automati
 
 ## AI Tech Stack & Skills
 
-As a certified **AI Manager (IHK)** and passionate learner, I’m actively exploring and building with:
+As a certified **AI Manager (IHK)** and passionate learner, I'm actively exploring and building with:
 
+- **Agent tooling:** Claude Code, Codex, Ollama (local models), uv
 - **Agent Frameworks:** LangChain, LangGraph, CrewAI, Smolagents, LlamaIndex, Agno Agent (Python)
-- **Retrieval-Augmented Generation (RAG):** Supabase, Qdrant, Docker Ollama, TypeScript
+- **Retrieval-Augmented Generation (RAG):** Supabase, Qdrant, Ollama, TypeScript
 - **No-Code Automation:** Make.com, n8n (migration in progress)
 - **Process & Data Analysis:** Six Sigma Black Belt, Design for Six Sigma, LEAN Master
 
-I'm a tech newcomer, eager to learn and share my journey—from initial prototypes to integrating multi-tool AI agents.
+I came to software from operations, and I share the journey, from initial prototypes to integrating multi-tool AI agents.
 
 ---
 ## Projects
 
-Hands-on repos that show how I apply AI in procurement, supply chain, and operations. Lean scope, clear results.
-
-### RFQ automation
-- [jmvis-rfq-batch-mailer](https://github.com/jm-vis/jmvis-rfq-batch-mailer)  
-  Send personalized RFQ emails at scale with PDF cover letter and Excel specs. SMTP over TLS, CSV contacts, retry and logging.
+Hands-on repos that show how I apply AI in procurement, supply chain, and operations, and the tooling I need to run AI agents under EU data-protection rules. Lean scope, clear results.
 
 ### Agent observability
 - [agent-session-ledger](https://github.com/jm-vis/agent-session-ledger)  
   Session ledger for Claude Code and Codex: cost, latency, tool errors and rework per session. Stores numbers and rule IDs only, never transcripts. Append-only Postgres, two-model review with a human on disagreement. Python, MIT.
 
-### Machine learning
-- jmvis-real-estate-meerbusch (coming soon)  
-  House price modeling on local data, with explainability.
+### Local models
+- [modelroom](https://github.com/jm-vis/modelroom)  
+  Does this model have room on your machine? Reads Hugging Face and the Ollama registry for the model families you name, measures the machine and ranks the packages that fit, in a guided run of five questions. Hardware profile and results stay on your machine as files. Python, MIT, `pip install modelroom`.
+
+### RFQ automation
+- [jmvis-rfq-batch-mailer](https://github.com/jm-vis/jmvis-rfq-batch-mailer)  
+  Send personalized RFQ emails at scale with PDF cover letter and Excel specs. SMTP over TLS, CSV contacts, retry and logging.
 
 ---
 
