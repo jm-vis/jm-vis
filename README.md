@@ -37,7 +37,7 @@ Hands-on repos that show how I apply AI in procurement, supply chain, and operat
   Does this model have room on your machine? Reads Hugging Face and the Ollama registry for the model families you name, measures the machine and ranks the packages that fit, in a guided run of five questions. Hardware profile and results stay on your machine as files. Python, MIT, `pip install modelroom`.
 
 ### RFQ automation
-- [jmvis-rfq-batch-mailer](https://github.com/jm-vis/jmvis-rfq-batch-mailer)  
+- [rfq-batch-mailer](https://github.com/jm-vis/rfq-batch-mailer)  
   Send personalized RFQ emails at scale with PDF cover letter and Excel specs. SMTP over TLS, CSV contacts, retry and logging.
 
 ---
