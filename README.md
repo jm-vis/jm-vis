@@ -1,5 +1,6 @@
-![YT-bg01](https://github.com/user-attachments/assets/5209ee45-978e-4b41-94bf-af979a9dcd23)
-# ♾️ Solving Supply Chain & Operations with AI
+<img src="docs/banner.svg" width="100%" alt="Joachim M. Vis, solving supply chain and operations with AI">
+
+# Solving Supply Chain & Operations with AI
 
 ## About Me
 
@@ -72,7 +73,7 @@ Hands-on repos that show how I apply AI in procurement, supply chain, and operat
 | 07–08/2024 | Make Intermediate                                                                                                    | Make.com (formerly Integromat)    | [🔗](https://academy.make.com/pages/search) |
 | 04/2024    | AI-Manager & Application Consultant AI                                                                               | IHK / LVQ GmbH                    | [🔗](https://www.lvq.de/weiterbildung.html) |
 
-If you’re also exploring AI, supply chain innovation, or want to collaborate, reach out!
+If you're also exploring AI, supply chain innovation, or want to collaborate, reach out!
 
 ---
 
