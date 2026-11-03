@@ -13,7 +13,7 @@ My focus is on **AI Strategy**, **AI Agent Development**, and **Process Automati
 
 ## AI Tech Stack & Skills
 
-As a certified **AI Manager (IHK)** and passionate learner, I'm actively exploring and building with:
+As a **Claude Certified Architect (Professional)**, certified **AI Manager (IHK)** and passionate learner, I'm actively exploring and building with:
 
 - **Agent tooling:** Claude Code, Codex, Ollama (local models), uv
 - **Agent Frameworks:** LangChain, LangGraph, CrewAI, Smolagents, LlamaIndex, Agno Agent (Python)
@@ -27,6 +27,10 @@ I came to software from operations, and I share the journey, from initial protot
 ## Projects
 
 Hands-on repos that show how I apply AI in procurement, supply chain, and operations, and the tooling I need to run AI agents under EU data-protection rules. Lean scope, clear results.
+
+### Agent review
+- [claude-for-codex](https://github.com/jm-vis/claude-for-codex)  
+  A second pair of eyes for Codex: Claude Code reviews inside the Codex Desktop sandbox, read-only, with proof in the JSON. Network allowlist for Anthropic only, Claude hooks in exec form, the commit boundary measured and documented instead of worked around. Codex plugin with two skills, Windows verified, MIT.
 
 ### Agent observability
 - [agent-session-ledger](https://github.com/jm-vis/agent-session-ledger)  
@@ -46,6 +50,8 @@ Hands-on repos that show how I apply AI in procurement, supply chain, and operat
 
 | Date       | Course                                                                                                               | Provider                         | Link |
 |------------|----------------------------------------------------------------------------------------------------------------------|-----------------------------------|------|
+| 10/2026    | Claude Certified Architect: Professional *(proctored exam, highest level of the Anthropic certification program)*    | Anthropic (Pearson VUE)           | [🔗](https://www.credly.com/badges/cef91103-505e-41c7-999f-804e1d32ea91) |
+| 10/2026    | Deploying Claude Enterprise with Confidence                                                                          | Anthropic Academy                 | [🔗](https://academy.claude.com) |
 | 10-11/2025    | PyTorch for Deep Learning                                                                                         | DeepLearning.AI          | [🔗](https://www.coursera.org/account/accomplishments/specialization/H47UFPI9T6M0) |
 | 11/2025    | PyTorch: Advanced Architectures and Deployment                                                                       | DeepLearning.AI          | [🔗](https://www.coursera.org/account/accomplishments/verify/Y2XMTR8VCSCV) |
 | 11/2025    | PyTorch: Techniques and Ecosystem Tools                                                                              | DeepLearning.AI          | [🔗](https://www.coursera.org/account/accomplishments/verify/5AEPUDTM9FBC) |
