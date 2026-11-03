@@ -50,8 +50,8 @@ Hands-on repos that show how I apply AI in procurement, supply chain, and operat
 
 | Date       | Course                                                                                                               | Provider                         | Link |
 |------------|----------------------------------------------------------------------------------------------------------------------|-----------------------------------|------|
-| 10/2026    | Claude Certified Architect: Professional *(proctored exam, highest level of the Anthropic certification program)*    | Anthropic (Pearson VUE)           | [🔗](https://www.credly.com/badges/cef91103-505e-41c7-999f-804e1d32ea91) |
-| 10/2026    | Deploying Claude Enterprise with Confidence                                                                          | Anthropic Academy                 | [🔗](https://academy.claude.com) |
+| 10/2026    | Claude Certified Architect: Professional *(proctored exam, highest level of the Anthropic certification program)*    | Anthropic (Pearson VUE)           | [🔗](https://www.credly.com/badges/0119d8c0-41a1-4d4c-bb40-1d3db08f4ab1) |
+| 10/2026    | Deploying Claude Enterprise with Confidence: The five decisions that shape your rollout                              | Anthropic Education               | [🔗](https://verify.skilljar.com/c/wxmnzcnhri7e) |
 | 10-11/2025    | PyTorch for Deep Learning                                                                                         | DeepLearning.AI          | [🔗](https://www.coursera.org/account/accomplishments/specialization/H47UFPI9T6M0) |
 | 11/2025    | PyTorch: Advanced Architectures and Deployment                                                                       | DeepLearning.AI          | [🔗](https://www.coursera.org/account/accomplishments/verify/Y2XMTR8VCSCV) |
 | 11/2025    | PyTorch: Techniques and Ecosystem Tools                                                                              | DeepLearning.AI          | [🔗](https://www.coursera.org/account/accomplishments/verify/5AEPUDTM9FBC) |
