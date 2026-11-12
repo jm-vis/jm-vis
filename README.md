@@ -50,6 +50,7 @@ Hands-on repos that show how I apply AI in procurement, supply chain, and operat
 
 | Date       | Course                                                                                                               | Provider                         | Link |
 |------------|----------------------------------------------------------------------------------------------------------------------|-----------------------------------|------|
+| 11/2026    | Claude Certified Developer: Foundations *(proctored exam)*                                                           | Anthropic (Pearson VUE)           | [🔗](https://www.credly.com/badges/b2cdeafb-7f23-4006-bbc6-4e519d5908ac) |
 | 10/2026    | Claude Certified Architect: Professional *(proctored exam, highest level of the Anthropic certification program)*    | Anthropic (Pearson VUE)           | [🔗](https://www.credly.com/badges/0119d8c0-41a1-4d4c-bb40-1d3db08f4ab1) |
 | 10/2026    | Deploying Claude Enterprise with Confidence: The five decisions that shape your rollout                              | Anthropic Education               | [🔗](https://verify.skilljar.com/c/wxmnzcnhri7e) |
 | 10-11/2025    | PyTorch for Deep Learning                                                                                         | DeepLearning.AI          | [🔗](https://www.coursera.org/account/accomplishments/specialization/H47UFPI9T6M0) |
